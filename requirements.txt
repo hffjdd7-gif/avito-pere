@@ -1,0 +1,6 @@
+aiogram==3.*
+aiohttp
+aiosqlite
+beautifulsoup4
+lxml
+aiohttp-socks
